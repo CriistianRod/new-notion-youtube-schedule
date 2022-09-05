@@ -1,0 +1,18 @@
+{
+  "name": "new-notion-youtube-schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.1.1",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}
